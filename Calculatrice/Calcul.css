@@ -1,0 +1,40 @@
+#ALL{
+    margin: 30px 550px 0px 38%;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+button{
+    width: 90px;
+    height: 90px;
+    font-size: 25px;
+    margin-top: 3px;
+}
+p{
+    display: inline-block;
+    width: 278px;
+    height: 92px;
+    background-color: gray;
+    padding-top: 35px;
+    font-size: 40px;
+    text-align: right;
+}
+
+#A{
+    margin-bottom: -40px;
+    height: 128px;
+    background-color: yellow;
+}
+#O{
+    width: 371px;
+    background-color: greenyellow;
+
+}
+#MS7{
+    background-color: red;
+}
+.Ope{
+    background-color: gray;
+}
+
+
